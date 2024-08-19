@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "intl-tel-input": "^23.9.3",
+    "vue-tel-input": "^9.1.4"
+  }
+}
